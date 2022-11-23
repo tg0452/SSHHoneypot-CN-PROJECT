@@ -125,9 +125,4 @@ The project uses Docker to containerize and package the application for easier d
 
   - The logs are available in the **`ssh-honeypot.log`** file in the project root.
 
-<div align="center"><h2><strong>Contributors 🤝</strong></h2></div>
-
-<table align="center">
-<tr align="center">
-<td>
 
